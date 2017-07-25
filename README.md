@@ -1,0 +1,2 @@
+# STRAT
+My first repository
